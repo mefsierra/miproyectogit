@@ -1,1 +1,1 @@
-Quiero aprender git para organizarme mejor y controlar el proyecto
+Hoy es martes
